@@ -105,7 +105,7 @@
       <link href="/2023/06/29/%E3%80%90MC-ICE%E3%80%9120230629%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
       <url>/2023/06/29/%E3%80%90MC-ICE%E3%80%9120230629%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</url>
       
-        <content type="html"><![CDATA[<p>  1.修复了战桥不能传送的bug<br>  2.修复了tnt run中地图消失的情况<br>  3.增加了地图下载功能<br>  4.把游戏统一迁移到了偏远位置，对生存玩家更友好了<br>  5.最近团队正在延长假期跑酷，目前进度如下：<br><img src="https://pic.imgdb.cn/item/64a412a11ddac507cc86ed20.jpg"><br><img src="https://pic.imgdb.cn/item/64a412a31ddac507cc86efa6.jpg"><br><img src="https://pic.imgdb.cn/item/64a412a31ddac507cc86f18f.jpg"></p>]]></content>
+        <content type="html"><![CDATA[<p>  1.修复了战桥不能传送的bug<br>  2.修复了tnt run中地图消失的情况<br>  3.增加了地图下载功能<br>  4.把游戏统一迁移到了偏远位置，对生存玩家更友好了<br>  5.最近团队正在延长假期跑酷，目前进度如下：<br><img src="https://pic.imgdb.cn/item/64a412a11ddac507cc86ed20.jpg" alt=""><br><img src="https://pic.imgdb.cn/item/64a412a31ddac507cc86efa6.jpg" alt=""><br><img src="https://pic.imgdb.cn/item/64a412a31ddac507cc86f18f.jpg" alt=""></p>]]></content>
       
       
       <categories>
@@ -132,7 +132,7 @@
       <link href="/2022/06/09/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91Android-Harmony%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9host/"/>
       <url>/2022/06/09/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91Android-Harmony%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9host/</url>
       
-        <content type="html"><![CDATA[<p>  首先需要一个文件管理器以及一个<a href="https://www.123pan.com/s/4t6iVv-mPTVH.html">Virtual Host</a><br>  然后进入一个叫<a href="https://www.ipaddress.com/">ipaddress</a>的网站，进入之后，在输入框里输入你要修改host的域名，过几秒钟，就会出现ip，把ip复制下来。<br>  之后，打开文件管理器，在随便一个地方(非&#x2F;Android&#x2F;data&#x2F;)新建一个叫”hosts”的文件(注:没有后缀)，然后编辑，如下图。<br><img src="https://pic.imgdb.cn/item/6496b2dc1ddac507cc88d3c3.jpg"><br>  编辑完后，打开”Virtual Host”，之后，按下图点击。<br><img src="https://pic.imgdb.cn/item/6496b2dc1ddac507cc88d55b.jpg"><br><img src="https://pic.imgdb.cn/item/6496b2dc1ddac507cc88d639.jpg"><br><img src="https://pic.imgdb.cn/item/6496b2dc1ddac507cc88d6b0.jpg"></p>]]></content>
+        <content type="html"><![CDATA[<p>  首先需要一个文件管理器以及一个<a href="https://www.123pan.com/s/4t6iVv-mPTVH.html">Virtual Host</a><br>  然后进入一个叫<a href="https://www.ipaddress.com/">ipaddress</a>的网站，进入之后，在输入框里输入你要修改host的域名，过几秒钟，就会出现ip，把ip复制下来。<br>  之后，打开文件管理器，在随便一个地方(非/Android/data/)新建一个叫”hosts”的文件(注:没有后缀)，然后编辑，如下图。<br><img src="https://pic.imgdb.cn/item/6496b2dc1ddac507cc88d3c3.jpg" alt=""><br>  编辑完后，打开”Virtual Host”，之后，按下图点击。<br><img src="https://pic.imgdb.cn/item/6496b2dc1ddac507cc88d55b.jpg" alt=""><br><img src="https://pic.imgdb.cn/item/6496b2dc1ddac507cc88d639.jpg" alt=""><br><img src="https://pic.imgdb.cn/item/6496b2dc1ddac507cc88d6b0.jpg" alt=""></p>]]></content>
       
       
       <categories>
@@ -165,7 +165,7 @@
       <link href="/2021/06/09/%E3%80%90MC-%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD%E3%80%91MC%E5%9F%BA%E5%B2%A9%E7%89%88%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD/"/>
       <url>/2021/06/09/%E3%80%90MC-%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD%E3%80%91MC%E5%9F%BA%E5%B2%A9%E7%89%88%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD/</url>
       
-        <content type="html"><![CDATA[<p>POST: <a href="http://bbk.endyun.ltd:9000/api/last_version">http://bbk.endyun.ltd:9000/api/last_version</a><br>data &#x3D; {“b”: “1”}<br>headers &#x3D; {“Content-Type”:”application&#x2F;x-www-form-urlencoded”}</p>]]></content>
+        <content type="html"><![CDATA[<p>POST: <a href="http://bbk.endyun.ltd:9000/api/last_version">http://bbk.endyun.ltd:9000/api/last_version</a><br>data = {“b”: “1”}<br>headers = {“Content-Type”:”application/x-www-form-urlencoded”}</p>]]></content>
       
       
       <categories>
@@ -181,13 +181,13 @@
             
             <tag> Minecraft </tag>
             
-            <tag> 基岩版 </tag>
-            
-            <tag> 资源分享 </tag>
-            
             <tag> 游戏下载 </tag>
             
             <tag> MC </tag>
+            
+            <tag> 基岩版 </tag>
+            
+            <tag> 资源分享 </tag>
             
         </tags>
       
@@ -200,7 +200,7 @@
       <link href="/2021/04/06/%E3%80%90MCBE-%E6%9D%90%E8%B4%A8%E5%8C%85%E3%80%91NickDefaul(%E9%80%8F%E6%98%8EGUI)/"/>
       <url>/2021/04/06/%E3%80%90MCBE-%E6%9D%90%E8%B4%A8%E5%8C%85%E3%80%91NickDefaul(%E9%80%8F%E6%98%8EGUI)/</url>
       
-        <content type="html"><![CDATA[<p><img src="https://raw.kgithub.com/xiaoliunone/xiaoliunone.github.io/main/images/101/1.jpg"><br>资源名称：NickDefaul<br>作者：未知<br>移植GUI：小萌小六<br>简介：无<br>详情图：无<br>转载来源：Addons<br>下载链接：<a href="https://www.123865.com/s/4t6iVv-to1VH">点我跳转</a></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://raw.kgithub.com/xiaoliunone/xiaoliunone.github.io/main/images/101/1.jpg" alt=""><br>资源名称：NickDefaul<br>作者：未知<br>移植GUI：小萌小六<br>简介：无<br>详情图：无<br>转载来源：Addons<br>下载链接：<a href="https://www.123865.com/s/4t6iVv-to1VH">点我跳转</a></p>]]></content>
       
       
       <categories>
@@ -227,7 +227,7 @@
       <link href="/2021/04/05/%E3%80%90MCBE-%E6%9D%90%E8%B4%A8%E5%8C%85%E3%80%91KiroFPS/"/>
       <url>/2021/04/05/%E3%80%90MCBE-%E6%9D%90%E8%B4%A8%E5%8C%85%E3%80%91KiroFPS/</url>
       
-        <content type="html"><![CDATA[<p><img src="/images/%E3%80%90MCBE-%E6%9D%90%E8%B4%A8%E5%8C%85%E3%80%91KiroFPS/1.jpg"><br>材质包名称：KiroFPS<br>作者：未知<br>介绍：无<br>游戏内效果：<br><img src="/images/%E3%80%90MCBE-%E6%9D%90%E8%B4%A8%E5%8C%85%E3%80%91KiroFPS/2.jpg"><br><img src="/images/%E3%80%90MCBE-%E6%9D%90%E8%B4%A8%E5%8C%85%E3%80%91KiroFPS/3.jpg"><br><img src="/images/%E3%80%90MCBE-%E6%9D%90%E8%B4%A8%E5%8C%85%E3%80%91KiroFPS/4.jpg"><br><img src="/images/%E3%80%90MCBE-%E6%9D%90%E8%B4%A8%E5%8C%85%E3%80%91KiroFPS/5.jpg"><br><img src="/images/%E3%80%90MCBE-%E6%9D%90%E8%B4%A8%E5%8C%85%E3%80%91KiroFPS/6.jpg"><br>下载：<a href="https://www.123pan.com/s/4t6iVv-ZPTVH.html">点我跳转下载页面</a><br>转载来源：Addons</p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/images/【MCBE-材质包】KiroFPS/1.jpg" alt=""><br>材质包名称：KiroFPS<br>作者：未知<br>介绍：无<br>游戏内效果：<br><img src="/images/【MCBE-材质包】KiroFPS/2.jpg" alt=""><br><img src="/images/【MCBE-材质包】KiroFPS/3.jpg" alt=""><br><img src="/images/【MCBE-材质包】KiroFPS/4.jpg" alt=""><br><img src="/images/【MCBE-材质包】KiroFPS/5.jpg" alt=""><br><img src="/images/【MCBE-材质包】KiroFPS/6.jpg" alt=""><br>下载：<a href="https://www.123pan.com/s/4t6iVv-ZPTVH.html">点我跳转下载页面</a><br>转载来源：Addons</p>]]></content>
       
       
       <categories>
@@ -243,13 +243,13 @@
             
             <tag> Minecraft </tag>
             
-            <tag> MCBE-材质包 </tag>
-            
             <tag> 基岩版 </tag>
             
-            <tag> MCBE </tag>
-            
             <tag> 资源分享 </tag>
+            
+            <tag> MCBE-材质包 </tag>
+            
+            <tag> MCBE </tag>
             
         </tags>
       
@@ -283,35 +283,6 @@
     </entry>
     
     
-    
-    <entry>
-      <title>【教程】补充的几点</title>
-      <link href="/2020/01/01/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E8%A1%A5%E5%85%85%E7%9A%84%E5%87%A0%E7%82%B9/"/>
-      <url>/2020/01/01/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E8%A1%A5%E5%85%85%E7%9A%84%E5%87%A0%E7%82%B9/</url>
-      
-        <content type="html"><![CDATA[<p>1、文章里有文字标蓝的，是链接(暗黑主题是格外突出的白字)<br>2、钝角</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 教程 </tag>
-            
-            <tag> 补充说明 </tag>
-            
-            <tag> 新年快乐 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
   
   
     
@@ -321,7 +292,18 @@
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 自定义字体 */@font-face {  /* 为载入的字体取名字(随意) */  font-family: 'BSJ';  /* 字体文件地址(相对或者绝对路径都可以) */  src: url(/保时捷圆M.ttf);  /* 定义加粗样式(加粗多少) */  font-weight: normal;  /* 定义字体样式(斜体/非斜体) */  font-style: normal;  /* 定义显示样式 */  font-display: block;}]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 自定义字体 */@font-face {  /* 为载入的字体取名字(随意) */  font-family: 'BSJ';  /* 字体文件地址(相对或者绝对路径都可以) */  src: url(/保时捷圆M.ttf);  /* 定义加粗样式(加粗多少) */  font-weight: normal;  /* 定义字体样式(斜体/非斜体) */  font-style: normal;  /* 定义显示样式 */  font-display: block;}/* 翻页按钮居中 */#pagination {  width: 100%;  margin: auto;}/* 一级菜单居中 */#nav .menus_items {  position: absolute !important;  width: fit-content !important;  left: 50% !important;  transform: translateX(-50%) !important;}/* 子菜单横向展示 */#nav .menus_items .menus_item:hover .menus_item_child {  display: flex !important;}/* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */.menus_items .menus_item:nth-child(2) .menus_item_child {  left: -125px;}/* 霓虹灯 *//* 日间模式不生效 */[data-theme="light"] #site-name,[data-theme="light"] #site-title,[data-theme="light"] #site-subtitle,[data-theme="light"] #post-info {  animation: none;}/* 夜间模式生效 */[data-theme="dark"] #site-name,[data-theme="dark"] #site-title {  animation: light_15px 10s linear infinite;}[data-theme="dark"] #site-subtitle {  animation: light_10px 10s linear infinite;}[data-theme="dark"] #post-info {  animation: light_5px 10s linear infinite;}/* 关键帧描述 */@keyframes light_15px {  0% {    text-shadow: #5636ed 0 0 15px;  }  12.5% {    text-shadow: #11ee5e 0 0 15px;  }  25% {    text-shadow: #f14747 0 0 15px;  }  37.5% {    text-shadow: #f1a247 0 0 15px;  }  50% {    text-shadow: #f1ee47 0 0 15px;  }  50% {    text-shadow: #b347f1 0 0 15px;  }  62.5% {    text-shadow: #002afa 0 0 15px;  }  75% {    text-shadow: #ed709b 0 0 15px;  }  87.5% {    text-shadow: #39c5bb 0 0 15px;  }  100% {    text-shadow: #5636ed 0 0 15px;  }}@keyframes light_10px {  0% {    text-shadow: #5636ed 0 0 10px;  }  12.5% {    text-shadow: #11ee5e 0 0 10px;  }  25% {    text-shadow: #f14747 0 0 10px;  }  37.5% {    text-shadow: #f1a247 0 0 10px;  }  50% {    text-shadow: #f1ee47 0 0 10px;  }  50% {    text-shadow: #b347f1 0 0 10px;  }  62.5% {    text-shadow: #002afa 0 0 10px;  }  75% {    text-shadow: #ed709b 0 0 10px;  }  87.5% {    text-shadow: #39c5bb 0 0 10px;  }  100% {    text-shadow: #5636ed 0 0 10px;  }}@keyframes light_5px {  0% {    text-shadow: #5636ed 0 0 5px;  }  12.5% {    text-shadow: #11ee5e 0 0 5px;  }  25% {    text-shadow: #f14747 0 0 5px;  }  37.5% {    text-shadow: #f1a247 0 0 15px;  }  50% {    text-shadow: #f1ee47 0 0 5px;  }  50% {    text-shadow: #b347f1 0 0 5px;  }  62.5% {    text-shadow: #002afa 0 0 5px;  }  75% {    text-shadow: #ed709b 0 0 5px;  }  87.5% {    text-shadow: #39c5bb 0 0 5px;  }  100% {    text-shadow: #5636ed 0 0 5px;  }}:root {  --trans-light: rgba(255, 255, 255, 0.88);  --trans-dark: rgba(25, 25, 25, 0.88);  --border-style: 1px solid rgb(169, 169, 169);  --backdrop-filter: blur(5px) saturate(150%);}/* 首页文章卡片 */#recent-posts > .recent-post-item {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 25px;  border: var(--border-style);}/* 首页侧栏卡片 */#aside-content .card-widget {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 18px;  border: var(--border-style);}/* 文章页、归档页、普通页面 */div#post,div#page,div#archive {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border: var(--border-style);  border-radius: 20px;}/* 导航栏 */#page-header.nav-fixed #nav {  background: rgba(255, 255, 255, 0.75);  backdrop-filter: var(--backdrop-filter);}[data-theme="dark"] #page-header.nav-fixed #nav {  background: rgba(0, 0, 0, 0.7) !important;}/* 夜间模式遮罩 */[data-theme="dark"] #recent-posts > .recent-post-item,[data-theme="dark"] #aside-content .card-widget,[data-theme="dark"] div#post,[data-theme="dark"] div#archive,[data-theme="dark"] div#page {  background: var(--trans-dark);}/* 夜间模式页脚页头遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 阅读模式 */.read-mode #aside-content .card-widget {  background: rgba(158, 204, 171, 0.5) !important;}.read-mode div#post {  background: rgba(158, 204, 171, 0.5) !important;}/* 夜间模式下的阅读模式 */[data-theme="dark"] .read-mode #aside-content .card-widget {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}[data-theme="dark"] .read-mode div#post {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/universe.css"/>
+      <url>/css/universe.css</url>
+      
+        <content type="html"><![CDATA[/* 背景宇宙星光  */#universe{  display: block;  position: fixed;  margin: 0;  padding: 0;  border: 0;  outline: 0;  left: 0;  top: 0;  width: 100%;  height: 100%;  pointer-events: none;  /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */  z-index: -1;}]]></content>
       
     </entry>
     
@@ -343,7 +325,18 @@
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="About"><a href="#About" class="headerlink" title="- About -"></a>- About -</h1><p>基岩版ip：<br>ip：mcbe.iceserver.top<br>端口：19132<br>Java版ip：<br>ip：mcpc.iceserver.top<br>QQ群：<br>1078463227</p><p>注：本服内含白名单，需要按照如下游玩的方式</p><p>游玩方式：<br>1.点击Q群管家发的问卷，进入后填写它并提交<br>2.审核过后结果将发往您的QQ邮箱里</p><p>难疑解答：<br>Q:怎么投稿？<br>A:<a href="/%E6%8A%95%E7%A8%BF">点此查看说明</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="About"><a href="#About" class="headerlink" title="- About -"></a>- About -</h1><p>基岩版ip：<br>ip：mcbe.iceserver.top<br>端口：19132<br>Java版ip：<br>ip：mcpc.iceserver.top<br>QQ群：<br>1078463227</p><p>注：本服内含白名单，需要按照如下游玩的方式</p><p>游玩方式：<br>1.点击Q群管家发的问卷，进入后填写它并提交<br>2.审核过后结果将发往您的QQ邮箱里</p><p>难疑解答：<br>Q:怎么投稿？<br>A:<a href="/投稿">点此查看说明</a></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/universe.js"/>
+      <url>/js/universe.js</url>
+      
+        <content type="html"><![CDATA[function dark() {window.requestAnimationFrame=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.msRequestAnimationFrame;var n,e,i,h,t=.05,s=document.getElementById("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];function f(){n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute("width",n),s.setAttribute("height",e)}function u(){h.clearRect(0,0,n,e);for(var t=c.length,i=0;i<t;i++){var s=c[i];s.move(),s.fadeIn(),s.fadeOut(),s.draw()}}function y(){this.reset=function(){this.giant=m(3),this.comet=!this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),this.do=l(5e-4,.002)+.001*(this.comet+1-1)},this.fadeIn=function(){this.fadingIn&&(this.fadingIn=!(this.opacity>this.opacityTresh),this.opacity+=this.do)},this.fadeOut=function(){this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do/2,(this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset()))},this.draw=function(){if(h.beginPath(),this.giant)h.fillStyle="rgba("+a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*Math.PI,!1);else if(this.comet){h.fillStyle="rgba("+d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*Math.PI,!1);for(var t=0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}else h.fillStyle="rgba("+r+","+this.opacity+")",h.rect(this.x,this.y,this.r,this.r);h.closePath(),h.fill()},this.move=function(){this.x+=this.dx,this.y+=this.dy,!1===this.fadingOut&&this.reset(),(this.x>n-n/4||this.y<0)&&(this.fadingOut=!0)},setTimeout(function(){o=!1},50)}function m(t){return Math.floor(1e3*Math.random())+1<10*t}function l(t,i){return Math.random()*(i-t)+t}f(),window.addEventListener("resize",f,!1),function(){h=s.getContext("2d");for(var t=0;t<i;t++)c[t]=new y,c[t].reset();u()}(),function t(){document.getElementsByTagName('html')[0].getAttribute('data-theme')=='dark'&&u(),window.requestAnimationFrame(t)}()};dark()]]></content>
       
     </entry>
     
